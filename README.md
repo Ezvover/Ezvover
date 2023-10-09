@@ -33,10 +33,19 @@ Hi, i am Vladimir, a 3rd year student.
   - In this generator you can create a password with different parameters.
 
  :top: My Stats
- <div>
+<!-- <div>
    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ezvover&layout=compact&langs_count=8&theme=transparent&card_width=260" />
-   <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Ezvover&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&card_width=440"/>
- </div>
+   <img height=200 align="center" src="[![GitHub Streak](https://github-readme-streak-stats-kappa-drab.vercel.app?user=Ezvover&theme=transparent)](https://git.io/streak-stats)"/>
+ </div> -->
+
+ <div>
+   <div>
+     [![GitHub Streak](https://github-readme-streak-stats-kappa-drab.vercel.app?user=Ezvover&theme=transparent)](https://git.io/streak-stats)
+   </div>
+   <div>
+     [![GitHub Streak](https://github-readme-streak-stats-kappa-drab.vercel.app?user=Ezvover&theme=transparent)](https://git.io/streak-stats)
+   </div>
+ </div>  
   
 
 :telephone_receiver: Connect with Me
