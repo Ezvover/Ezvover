@@ -35,8 +35,8 @@ Hi, i am Vladimir, a 3rd year student.
  :top: My Stats
  
 <div>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ezvover&layout=compact&langs_count=8&card_width=320" />
-  <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Ezvover&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&card_width=456"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ezvover&layout=compact&langs_count=8&card_width=260" />
+  <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Ezvover&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&card_width=440"/>
 </div> 
 
 :telephone_receiver: Connect with Me
