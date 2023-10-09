@@ -34,9 +34,10 @@ Hi, i am Vladimir, a 3rd year student.
 
  :top: My Stats
  
-<div style = "margin-bottom: 16px">
+<div>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ezvover&layout=compact&langs_count=8&theme=transparent&card_width=260" />
   <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Ezvover&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&card_width=440"/>
+  <div style="margin-bottom: 16px;"></div>
 </div> 
 
 :telephone_receiver: Connect with Me
