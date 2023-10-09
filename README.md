@@ -37,9 +37,6 @@ Hi, i am Vladimir, a 3rd year student.
 <div>
    <img height=200 align="center" src="https://github-readme-stats-psi-lake-64.vercel.app/api/top-langs?username=Ezvover&layout=compact&langs_count=8&theme=transparent&exclude_repo=github-readme-stats,github-readme-streak-stats&card_width=260" />
    <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ezvover&theme=transparent&card_width=440"/>
- </div>
- <div>
-   <img height=200 align="center" src="https://leetcard.jacoblin.cool/ezvover?theme=transparent&font=IBM%20Plex%20Mono&card_width=440"/>
  </div>&nbsp;
  
 :telephone_receiver: Connect with Me
