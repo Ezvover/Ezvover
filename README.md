@@ -33,13 +33,12 @@ Hi, i am Vladimir, a 3rd year student.
   - In this generator you can create a password with different parameters.
 
  :top: My Stats
+ 
+<div>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ezvover&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="  http://github-readme-streak-stats.herokuapp.com?user=Ezvover&theme=dark&background=000000)](https://git.io/streak-stats"/>
+</div> 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a> 
 :telephone_receiver: Connect with Me
 
 - [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30">](https://www.linkedin.com/in/vladimir-taraskin-943647295/)
