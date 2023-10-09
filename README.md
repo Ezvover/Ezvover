@@ -35,12 +35,9 @@ Hi, i am Vladimir, a 3rd year student.
  :top: My Stats
 <div>
    <img height=200 align="center" src="https://github-readme-stats-nu-kohl-33.vercel.app/api/top-langs?username=Ezvover&layout=compact&langs_count=8&theme=transparent&card_width=260" />
-   <img height=200 align="center" src="https://github-readme-streak-stats-kappa-drab.vercel.app?user=Ezvover&theme=transparent&card_width=440"/>
- </div>
-
-
-  
-
+   <img height=200 align="center" src="https://github-readme-streak-stats-zeta-seven.vercel.app?user=Ezvover&theme=transparent&card_width=440"/>
+ </div>&nbsp;
+ 
 :telephone_receiver: Connect with Me
 
 [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30" weight="200">](https://www.linkedin.com/in/vladimir-taraskin-943647295/)
