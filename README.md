@@ -4,7 +4,7 @@ Hi, i am Vladimir, a 3rd year student.
 
 :fire: Skills
 
-<div>
+<div style = "margin-bottom: 16px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CS" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
@@ -34,7 +34,7 @@ Hi, i am Vladimir, a 3rd year student.
 
  :top: My Stats
  
-<div>
+<div style = "margin-bottom: 16px">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ezvover&layout=compact&langs_count=8&theme=transparent&card_width=260" />
   <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Ezvover&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&card_width=440"/>
 </div> 
