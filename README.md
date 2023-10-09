@@ -43,5 +43,5 @@ Hi, i am Vladimir, a 3rd year student.
 
 :telephone_receiver: Connect with Me
 
-- [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30">](https://www.linkedin.com/in/vladimir-taraskin-943647295/)
-- [<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" height="30">](mailto:ezvover@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30" weight="200">](https://www.linkedin.com/in/vladimir-taraskin-943647295/)
+[<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" height="30" weight="200">](mailto:ezvover@gmail.com)
