@@ -33,6 +33,8 @@ Hi, i am Vladimir, a 3rd year student.
   - In this generator you can create a password with different parameters.
 
  :top: My Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezvover&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
 <div>
    <img height=200 align="center" src="https://github-readme-stats-nu-kohl-33.vercel.app/api/top-langs?username=Ezvover&layout=compact&langs_count=8&theme=transparent&card_width=260" />
 <!--   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ezvover&layout=compact&langs_count=8&theme=transparent&card_width=260" /> -->
