@@ -34,7 +34,7 @@ Hi, i am Vladimir, a 3rd year student.
 
  :top: My Stats
 <div>
-   <img height=200 align="center" src="https://github-readme-stats-nu-kohl-33.vercel.app/api/top-langs?username=Ezvover&layout=compact&langs_count=8&theme=transparent&card_width=260" />
+   <img height=200 align="center" src="https://github-readme-stats-flame-nu-64.vercel.app/api/top-langs?username=Ezvover&layout=compact&langs_count=8&theme=transparent&card_width=260" />
    <img height=200 align="center" src="https://github-readme-streak-stats-zeta-seven.vercel.app?user=Ezvover&theme=transparent&card_width=440"/>
  </div>&nbsp;
  
