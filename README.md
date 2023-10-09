@@ -33,11 +33,8 @@ Hi, i am Vladimir, a 3rd year student.
   - In this generator you can create a password with different parameters.
 
  :top: My Stats
- 
-<div>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezvover&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Ezvover&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&card_width=440"/>
-</div>&nbsp;
+
 
 :telephone_receiver: Connect with Me
 
