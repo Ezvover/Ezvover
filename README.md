@@ -1,6 +1,6 @@
 :cowboy_hat_face: About Me :
 
-Hi, i am Vladimir, a 3rd year student.
+Hi, i am Vladimir, a 4rd year student.
 
 :fire: Skills
 
@@ -9,7 +9,6 @@ Hi, i am Vladimir, a 3rd year student.
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>&nbsp;
 
@@ -37,8 +36,11 @@ Hi, i am Vladimir, a 3rd year student.
     <img height=200 align="center" src="https://github-readme-stats-psi-lake-64.vercel.app/api/top-langs?username=Ezvover&layout=compact&langs_count=8&theme=transparent&exclude_repo=github-readme-stats,github-readme-streak-stats&card_width=260" />
     <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ezvover&theme=transparent&card_width=440"/>
  </div>&nbsp;
- 
+
+<!-- 
 :telephone_receiver: Connect with Me
 
 [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30" weight="200">](https://www.linkedin.com/in/vladimir-taraskin-943647295/)
 [<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" height="30" weight="200">](mailto:ezvover@gmail.com)
+-->
+
