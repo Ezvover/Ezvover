@@ -31,6 +31,12 @@ Hi, i am Vladimir, a 4rd year student.
 - :closed_lock_with_key: [JS Password Generator](https://github.com/Ezvover/JS-Password-Generator)
   - In this generator you can create a password with different parameters.
 
+:shopping_cart: Commercial Projects
+
+-:diamonds: Donate Menu
+  - Simple donate menu for Pears Project, HTML + JS
+
+
  :top: My Stats
  <div>
     <img height=200 align="center" src="https://github-readme-stats-psi-lake-64.vercel.app/api/top-langs?username=Ezvover&layout=compact&langs_count=8&theme=transparent&exclude_repo=github-readme-stats,github-readme-streak-stats&card_width=260" />
