@@ -33,7 +33,7 @@ Hi, i am Vladimir, a 4rd year student.
 
 :shopping_cart: Commercial Projects
 
--:diamonds: Donate Menu
+- :diamonds: Donate Menu
   - Simple donate menu for Pears Project, HTML + JS
 
 
