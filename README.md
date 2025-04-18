@@ -31,10 +31,11 @@ Hi, i am Vladimir, a 4rd year student.
 - :closed_lock_with_key: [JS Password Generator](https://github.com/Ezvover/JS-Password-Generator)
   - In this generator you can create a password with different parameters.
 
-:shopping_cart: Commercial Projects
+<!-- :shopping_cart: Commercial Projects
 
 - :diamonds: Donate Menu
   - Simple donate menu, HTML + JS
+-->
 
 
  :top: My Stats
